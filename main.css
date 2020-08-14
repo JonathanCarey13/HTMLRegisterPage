@@ -70,3 +70,9 @@ nav {
     width: 45px;
     height: 45px;
 }
+#bob_ross {
+    border: .1em solid grey;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
